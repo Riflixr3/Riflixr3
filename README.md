@@ -5,7 +5,7 @@
   <h3>Student • Developer • Builder</h3>
 
   <p>
-    Building things, learning how they work, and occasionally breaking them in spectacular ways.
+    <i>Building things across the web, backend, and Python.</i>
   </p>
 
   <p>
@@ -21,98 +21,114 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  I'm a student developer passionate about software development,
-  backend engineering, game development, and building ambitious projects.
+  I'm a student developer interested in <b>web development, backend engineering,
+  Python, and building real-world software</b>.
 </p>
 
 <p>
-  Most of my time goes into learning how systems work under the hood
-  and turning ideas into actual software.
+  I enjoy working across the stack — from creating interfaces and web applications
+  to designing APIs, databases, and backend systems.
 </p>
 
 <ul>
   <li>🎓 Student & self-taught developer</li>
-  <li>☕ Mainly focused on Java</li>
-  <li>⚙️ Interested in backend engineering</li>
-  <li>🌐 Exploring scalable and distributed systems</li>
-  <li>🎮 Interested in Minecraft & Hytale development</li>
-  <li>🌱 Continuously learning new technologies</li>
-  <li>🚀 Working toward building my own software products</li>
+  <li>🌐 Building modern web applications</li>
+  <li>⚙️ Interested in backend architecture and APIs</li>
+  <li>🐍 Using Python for projects, automation and experimentation</li>
+  <li>☕ Working with Java & Spring Boot</li>
+  <li>⚛️ Building with React & Next.js</li>
+  <li>🔷 Learning TypeScript</li>
+  <li>🚀 Turning ideas into real projects</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Technologies</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<h3>Languages</h3>
+<h3>🌐 Web Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Web Technologies">
 </p>
 
-<h3>Backend</h3>
+<h3>⚙️ Backend</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend Technologies">
 </p>
 
-<h3>Frontend</h3>
+<h3>🐍 Python</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
 </p>
 
-<h3>Databases & Infrastructure</h3>
+<h3>🗄️ Databases</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes" alt="Databases and Infrastructure">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases">
+</p>
+
+<h3>🛠️ Tools & Infrastructure</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Tools and Infrastructure">
 </p>
 
 <hr>
 
-<h2>🚀 What I'm Interested In</h2>
+<h2>🚀 What I Build</h2>
 
 <table>
   <tr>
-    <td align="center">
-      <h3>⚙️ Backend</h3>
-      <p>APIs, services, architecture and performance</p>
-    </td>
 
 ```
-<td align="center">
-  <h3>🌐 Distributed Systems</h3>
-  <p>Scalable systems and high-concurrency architectures</p>
+<td align="center" width="33%">
+  <h3>🌐 Web Applications</h3>
+  <p>
+    Modern, responsive and interactive websites and applications.
+  </p>
+</td>
+
+<td align="center" width="33%">
+  <h3>⚙️ Backend Systems</h3>
+  <p>
+    APIs, services, authentication, databases and application logic.
+  </p>
+</td>
+
+<td align="center" width="33%">
+  <h3>🐍 Python Projects</h3>
+  <p>
+    Automation, experiments, utilities and data-related projects.
+  </p>
 </td>
 ```
 
   </tr>
 
   <tr>
-    <td align="center">
-      <h3>🎮 Game Development</h3>
-      <p>Minecraft, Hytale and multiplayer systems</p>
-    </td>
 
 ```
 <td align="center">
-  <h3>🧩 Developer Tools</h3>
-  <p>Tools and systems that make development easier</p>
+  <h3>⚛️ React & Next.js</h3>
+  <p>
+    Building reusable components and full-stack web applications.
+  </p>
 </td>
-```
 
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h3>🤖 AI</h3>
-      <p>AI-powered applications and automation</p>
-    </td>
-
-```
 <td align="center">
-  <h3>🚀 SaaS</h3>
-  <p>Building useful software products</p>
+  <h3>🗄️ Data & Storage</h3>
+  <p>
+    Working with relational and NoSQL databases and caching.
+  </p>
+</td>
+
+<td align="center">
+  <h3>🚀 Software Products</h3>
+  <p>
+    Exploring ideas that can become useful products.
+  </p>
 </td>
 ```
 
@@ -121,14 +137,84 @@
 
 <hr>
 
-<h2>🎮 Game Development</h2>
+<h2>📚 Currently Learning</h2>
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Focus</th>
+  </tr>
+
+  <tr>
+    <td>🌐 <b>Web</b></td>
+    <td>JavaScript • TypeScript • React • Next.js • Tailwind CSS</td>
+  </tr>
+
+  <tr>
+    <td>⚙️ <b>Backend</b></td>
+    <td>Node.js • Express • Spring Boot • REST APIs • Authentication</td>
+  </tr>
+
+  <tr>
+    <td>🐍 <b>Python</b></td>
+    <td>Automation • Data • APIs • Scripting • Problem Solving</td>
+  </tr>
+
+  <tr>
+    <td>🗄️ <b>Databases</b></td>
+    <td>PostgreSQL • MongoDB • Redis • Data Modeling</td>
+  </tr>
+
+  <tr>
+    <td>🏗️ <b>Architecture</b></td>
+    <td>System Design • Scalability • Performance • Clean Architecture</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>💡 Areas I'm Interested In</h2>
+
+<table>
+  <tr>
+
+```
+<td align="center">
+  <h3>🌐 Web</h3>
+  <p>
+    Frontend, full-stack applications, UI and modern web technologies.
+  </p>
+</td>
+
+<td align="center">
+  <h3>⚙️ Backend</h3>
+  <p>
+    APIs, distributed systems, databases and scalable architectures.
+  </p>
+</td>
+
+<td align="center">
+  <h3>🐍 Python</h3>
+  <p>
+    Automation, data processing, experimentation and useful tools.
+  </p>
+</td>
+```
+
+  </tr>
+</table>
+
+<hr>
+
+<h2>🎮 Game & Server Development</h2>
 
 <p>
-  Game and server development has been a major part of my programming journey.
+  Outside of traditional web development, I've also spent time exploring
+  <b>Minecraft and Hytale development</b>.
 </p>
 
 <p>
-  I've explored systems such as:
+  This has given me an interest in systems such as:
 </p>
 
 <p>
@@ -146,74 +232,122 @@
 </p>
 
 <p>
-  I'm particularly interested in how large multiplayer platforms
-  design their systems for reliability, scalability and performance.
+  I'm especially interested in how multiplayer systems can be designed
+  to remain reliable and performant at scale.
 </p>
 
 <hr>
 
-<h2>📚 Currently Learning</h2>
+<h2>🧠 How I Learn</h2>
 
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Topics</th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td>☕ <b>Java</b></td>
-    <td>Modern Java, Concurrency, JVM Internals, Virtual Threads</td>
-  </tr>
+  <h3>Learn → Build → Break → Fix → Repeat.</h3>
 
-  <tr>
-    <td>⚙️ <b>Backend</b></td>
-    <td>Spring Boot, Spring Security, REST APIs, gRPC, Protobuf</td>
-  </tr>
-
-  <tr>
-    <td>🌐 <b>Frontend</b></td>
-    <td>React, Next.js, TypeScript, Tailwind CSS</td>
-  </tr>
-
-  <tr>
-    <td>🏗️ <b>Architecture</b></td>
-    <td>Distributed Systems, Scalability, Performance</td>
-  </tr>
-</table>
-
-<hr>
-
-<h2>🧠 My Development Philosophy</h2>
-
-<blockquote>
   <p>
-    <b>Learn → Build → Break → Fix → Repeat.</b>
+    I learn by building real projects, experimenting with technologies,
+    running into problems, and figuring out how to solve them.
   </p>
-</blockquote>
 
-<p>
-  I believe the best way to learn software development is to actually build things,
-  run into problems, understand why they happen, and solve them.
-</p>
+</div>
 
 <hr>
 
 <h2>🎯 Goals</h2>
 
 <p>
-  My long-term goal is to become a strong software engineer and eventually
-  build my own technology company.
+  My current goal is to become a well-rounded developer with strong
+  skills across <b>web development, backend engineering, and Python</b>.
 </p>
 
 <p>
-  For now, I'm focused on continuously improving my fundamentals,
-  building increasingly complex projects, and learning how real-world
-  software systems are designed.
+  Long term, I want to build useful software products and eventually
+  create my own technology company.
 </p>
+
+<table>
+  <tr>
+
+```
+<td align="center" width="33%">
+  <h3>📖 Learn</h3>
+  <p>
+    Strengthen my fundamentals and understand technology deeply.
+  </p>
+</td>
+
+<td align="center" width="33%">
+  <h3>🔨 Build</h3>
+  <p>
+    Create increasingly ambitious and meaningful projects.
+  </p>
+</td>
+
+<td align="center" width="33%">
+  <h3>🚀 Ship</h3>
+  <p>
+    Turn ideas into software that people can actually use.
+  </p>
+</td>
+```
+
+  </tr>
+</table>
 
 <hr>
 
-<h2>📊 GitHub Statistics</h2>
+<h2>💻 Projects</h2>
+
+<p>
+  My projects are a mix of learning, experimentation and building ideas
+  into working software.
+</p>
+
+<table>
+  <tr>
+
+```
+<td align="center">
+  <h3>🌐 Web Projects</h3>
+  <p>
+    Websites, dashboards, applications and UI experiments.
+  </p>
+</td>
+
+<td align="center">
+  <h3>⚙️ Backend Projects</h3>
+  <p>
+    APIs, services, authentication and database-driven applications.
+  </p>
+</td>
+```
+
+  </tr>
+
+  <tr>
+
+```
+<td align="center">
+  <h3>🐍 Python Projects</h3>
+  <p>
+    Automation, utilities, experiments and data-related projects.
+  </p>
+</td>
+
+<td align="center">
+  <h3>🧪 Experiments</h3>
+  <p>
+    Small projects for learning new technologies and concepts.
+  </p>
+</td>
+```
+
+  </tr>
+</table>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -269,7 +403,11 @@ alt="GitHub Contribution Streak"
 <div align="center">
 
   <p>
-    <i>Still learning. Still building. Still breaking things. 🚀</i>
+    <i>Thanks for visiting my profile! 👋</i>
+  </p>
+
+  <p>
+    <b>Keep building. 🚀</b>
   </p>
 
 </div>
