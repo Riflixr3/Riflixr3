@@ -312,11 +312,12 @@ Turn ideas into software people can actually use.
 
 <a href="https://github.com/Riflixr">
 <img
-src="https://streak-stats.demolab.com?user=Riflixr&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com/?user=Riflixr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
 alt="Riflixr GitHub Contribution Streak">
 </a>
 
 </div>
+
 
 <hr>
 
