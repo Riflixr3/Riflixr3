@@ -306,34 +306,6 @@ Turn ideas into software people can actually use.
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<table>
-<tr>
-
-<td align="center">
-<a href="https://github.com/Riflixr">
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Riflixr&show_icons=true&theme=tokyonight&hide_border=true"
-alt="Riflixr GitHub Stats">
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Riflixr">
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riflixr&layout=compact&theme=tokyonight&hide_border=true"
-alt="Riflixr Top Languages">
-</a>
-</td>
-
-</tr>
-</table>
-
-<hr>
-
 <h2>🔥 Contribution Streak</h2>
 
 <div align="center">
