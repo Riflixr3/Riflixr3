@@ -202,36 +202,6 @@ Automation, data processing, scripting and useful tools.
 
 <hr>
 
-<h2>🎮 Game & Server Development</h2>
-
-<p>
-I've also spent time exploring <b>Minecraft and Hytale development</b>.
-</p>
-
-<p>
-This introduced me to systems such as:
-</p>
-
-<p>
-<code>Player Profiles</code>
-<code>Accounts</code>
-<code>Permissions</code>
-<code>Ranks</code>
-<code>Currency</code>
-<code>Punishments</code>
-<code>Reports</code>
-<code>Achievements</code>
-<code>Anti-Cheat</code>
-<code>Anti-Dupe</code>
-<code>ECS</code>
-</p>
-
-<p>
-I'm interested in how multiplayer systems can be designed for reliability,
-performance and scale.
-</p>
-
-<hr>
 
 <h2>🧠 How I Learn</h2>
 
