@@ -310,9 +310,9 @@ Turn ideas into software people can actually use.
 
 <div align="center">
 
-<a href="https://github.com/Riflixr">
+<a href="https://github.com/Riflixr3">
 <img
-src="https://streak-stats.demolab.com/?user=Riflixr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+src="https://streak-stats.demolab.com/?user=Riflixr3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
 alt="Riflixr GitHub Contribution Streak">
 </a>
 
