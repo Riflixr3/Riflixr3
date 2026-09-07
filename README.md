@@ -81,15 +81,14 @@
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Web Applications</h3>
+      <p>
+        Modern, responsive and interactive websites and applications.
+      </p>
+    </td>
 
 ```
-<td align="center" width="33%">
-  <h3>🌐 Web Applications</h3>
-  <p>
-    Modern, responsive and interactive websites and applications.
-  </p>
-</td>
-
 <td align="center" width="33%">
   <h3>⚙️ Backend Systems</h3>
   <p>
@@ -108,23 +107,22 @@
   </tr>
 
   <tr>
+    <td align="center" width="33%">
+      <h3>⚛️ React & Next.js</h3>
+      <p>
+        Building reusable components and full-stack web applications.
+      </p>
+    </td>
 
 ```
-<td align="center">
-  <h3>⚛️ React & Next.js</h3>
-  <p>
-    Building reusable components and full-stack web applications.
-  </p>
-</td>
-
-<td align="center">
+<td align="center" width="33%">
   <h3>🗄️ Data & Storage</h3>
   <p>
     Working with relational and NoSQL databases and caching.
   </p>
 </td>
 
-<td align="center">
+<td align="center" width="33%">
   <h3>🚀 Software Products</h3>
   <p>
     Exploring ideas that can become useful products.
@@ -177,23 +175,22 @@
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Web</h3>
+      <p>
+        Frontend, full-stack applications, UI and modern web technologies.
+      </p>
+    </td>
 
 ```
-<td align="center">
-  <h3>🌐 Web</h3>
-  <p>
-    Frontend, full-stack applications, UI and modern web technologies.
-  </p>
-</td>
-
-<td align="center">
+<td align="center" width="33%">
   <h3>⚙️ Backend</h3>
   <p>
     APIs, distributed systems, databases and scalable architectures.
   </p>
 </td>
 
-<td align="center">
+<td align="center" width="33%">
   <h3>🐍 Python</h3>
   <p>
     Automation, data processing, experimentation and useful tools.
@@ -256,8 +253,8 @@
 <h2>🎯 Goals</h2>
 
 <p>
-  My current goal is to become a well-rounded developer with strong
-  skills across <b>web development, backend engineering, and Python</b>.
+  My current goal is to become a well-rounded developer with strong skills
+  across <b>web development, backend engineering, and Python</b>.
 </p>
 
 <p>
@@ -267,15 +264,14 @@
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <h3>📖 Learn</h3>
+      <p>
+        Strengthen my fundamentals and understand technology deeply.
+      </p>
+    </td>
 
 ```
-<td align="center" width="33%">
-  <h3>📖 Learn</h3>
-  <p>
-    Strengthen my fundamentals and understand technology deeply.
-  </p>
-</td>
-
 <td align="center" width="33%">
   <h3>🔨 Build</h3>
   <p>
@@ -305,16 +301,15 @@
 
 <table>
   <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Web Projects</h3>
+      <p>
+        Websites, dashboards, applications and UI experiments.
+      </p>
+    </td>
 
 ```
-<td align="center">
-  <h3>🌐 Web Projects</h3>
-  <p>
-    Websites, dashboards, applications and UI experiments.
-  </p>
-</td>
-
-<td align="center">
+<td align="center" width="50%">
   <h3>⚙️ Backend Projects</h3>
   <p>
     APIs, services, authentication and database-driven applications.
@@ -325,16 +320,15 @@
   </tr>
 
   <tr>
+    <td align="center" width="50%">
+      <h3>🐍 Python Projects</h3>
+      <p>
+        Automation, utilities, experiments and data-related projects.
+      </p>
+    </td>
 
 ```
-<td align="center">
-  <h3>🐍 Python Projects</h3>
-  <p>
-    Automation, utilities, experiments and data-related projects.
-  </p>
-</td>
-
-<td align="center">
+<td align="center" width="50%">
   <h3>🧪 Experiments</h3>
   <p>
     Small projects for learning new technologies and concepts.
@@ -380,34 +374,5 @@ src="https://streak-stats.demolab.com?user=Riflixr&theme=tokyonight&hide_border=
 alt="GitHub Contribution Streak"
 
 >
-
-</div>
-
-<hr>
-
-<h2>📫 Connect With Me</h2>
-
-<div align="center">
-
-  <a href="https://github.com/Riflixr">
-    <img
-      src="https://img.shields.io/badge/GitHub-Riflixr-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    >
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <p>
-    <i>Thanks for visiting my profile! 👋</i>
-  </p>
-
-  <p>
-    <b>Keep building. 🚀</b>
-  </p>
 
 </div>
