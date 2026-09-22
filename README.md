@@ -325,7 +325,7 @@ alt="Riflixr GitHub Contribution Streak">
 
 <div align="center">
 
-<a href="https://github.com/Riflixr">
+<a href="https://github.com/Riflixr3">
 <img
 src="https://img.shields.io/badge/GitHub-Riflixr-181717?style=for-the-badge&logo=github"
 alt="GitHub">
